@@ -7,4 +7,4 @@ Filament spool for those who want to spend money on useless parts. Initial proto
 
 Duct tape not included. Please see store for details.
 
-
+Given enough whiskey, this will likely get loadcells.
