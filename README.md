@@ -15,7 +15,9 @@ Duct tape not included. Please see store for details. Given enough whiskey, this
 
 2x Old 2.2 Gantry Back Braces or new extrusions
 
-12x M5x20
+6x M5x20
+
+4x M5x15
 
 4x M5x10
 
