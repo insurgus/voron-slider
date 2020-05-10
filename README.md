@@ -15,11 +15,13 @@ Duct tape not included. Please see store for details. Given enough whiskey, this
 
 2x Old 2.2 Gantry Back Braces or new extrusions
 
-6x M5x20
+4x M5x20
 
 4x M5x15
 
 4x M5x10
+
+4x M5 Tnut
 
 16x F695-2RS Bearings
 
@@ -27,3 +29,16 @@ Duct tape not included. Please see store for details. Given enough whiskey, this
 
 
 If you're bying new extrusions, make sure to get them tapped. If you have spares, you'll need an m5 to ram through.
+
+
+# Assembly
+
+Tap the ends of your extrusions if not already done.
+
+Attach frame to ends of extrusions
+
+M5x20 goes through the side of the idler to hold the F695 bearings. One side is tighter than the other. Pay attention or you'll have to reprint an idler.
+
+M5x15 secures the idler to the Tnut. Tighten it such that there is no play in the idler, but it still allows free movement side to side with a little force. This let's you re-configure the frame for whatever spool dimensions you want.
+
+You can add shims if you like, but it really doesn't make any difference for me.
