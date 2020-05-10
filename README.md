@@ -19,7 +19,9 @@ Duct tape not included. Please see store for details. Given enough whiskey, this
 
 4x M5x10
 
-x Compressor Feet
+16x F695-2RS Bearings
+
+4x Compressor Feet
 
 
 If you're bying new extrusions, make sure to get them tapped. If you have spares, you'll need an m5 to ram through.
