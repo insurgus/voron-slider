@@ -3,8 +3,16 @@
 ![Voron Slider](https://i.imgur.com/tLPc9hS.png)
 
 
-Filament spool for those who want to spend money on useless parts. Initial prototype hampered by a significant lack of alcohol. Extrusion can be sized however you like allowing multiple spools to be held. Simply print off enough idler mounts for your application.
+Filament spool holder for those who have some extra bits hanging around after their 2.4 upgrade. Adjustable for spool size. Load 3 regular esun spools, 2kg spools or whatever else your chosen extrusion length will allow. Dare to dream gentlemen.
 
-Duct tape not included. Please see store for details.
+Simply print the frame parts and however many idlers you need for your application. I use a total of 6, with the 2 extra being used to offset for 2kg spools when I need them.
 
-Given enough whiskey, this will likely get loadcells.
+Duct tape not included. Please see store for details. Given enough whiskey, this will likely get loadcells.
+
+# Parts List
+2x Old 2.2 Gantry Back Braces or new extrusions
+12x M5x20
+4x M5x10
+x Compressor Feet
+
+If you're bying new extrusions, make sure to get them tapped. If you have spares, you'll need an m5 to ram through.
