@@ -10,9 +10,14 @@ Simply print the frame parts and however many idlers you need for your applicati
 Duct tape not included. Please see store for details. Given enough whiskey, this will likely get loadcells.
 
 # Parts List
+
 2x Old 2.2 Gantry Back Braces or new extrusions
+
 12x M5x20
+
 4x M5x10
+
 x Compressor Feet
+
 
 If you're bying new extrusions, make sure to get them tapped. If you have spares, you'll need an m5 to ram through.
